@@ -38,7 +38,9 @@ and click on `Fork` in the upper right corner. This will create a fork in your G
 repository that is under your control. Now clone the repository locally so you can start working on it:
 
 ```
-git clone https://github.com/[your github username]/Project-Build-an-ML-Pipeline-Starter.git
+git clone https://github.com/[your github username]/Project-Build-an-ML-Pipeline-Starter.git 
+
+(https://github.com/ajo4344/Project-Build-an-ML-Pipeline-Starter.git)
 ```
 
 and go into the repository:
@@ -64,7 +66,7 @@ Let's make sure we are logged in to Weights & Biases. Get your API key from W&B 
 then paste your key into this command:
 
 ```bash
-> wandb login [your API key]
+> wandb login [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]
 ```
 
 You should see a message similar to:

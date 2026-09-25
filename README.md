@@ -61,7 +61,7 @@ file provided in the root of the repository and activate it:
 ### Get API key for Weights and Biases
 Let's make sure we are logged in to Weights & Biases. Get your API key from W&B by going to 
 [https://wandb.ai/authorize](https://wandb.ai/authorize) and click on the + icon (copy to clipboard), 
-then paste your key into this command: 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
+then paste your key into this command: 
 
 ```bash
 > wandb login [your API key]
@@ -72,6 +72,14 @@ You should see a message similar to:
 wandb: Appending key for api.wandb.ai to your netrc file: /home/[your username]/.netrc
 ```
 
+
+"
+Weights and Biases : https://wandb.ai/ajo4344-western-governors-university/nyc_airbnb
+View run at: https://wandb.ai/ajo4344-western-governors-university/nyc_airbnb/runs/b4cvbant
+
+GitHub repository: https://github.com/ajo4344/Project-Build-an-ML-Pipeline-Starter
+
+"
 
 ### The configuration
 As usual, the parameters controlling the pipeline are defined in the ``config.yaml`` file defined in
